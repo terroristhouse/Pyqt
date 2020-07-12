@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa6df6bd-2dfb-4fb0-9701-a04f72436773" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cbuTUgSiQ1Sb5YmcPvSl9ktW55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootstrap---" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MainWindow (1)">
+    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统二" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.1 pandas常用类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统二" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../资料/Python3智能数据分析快速入门 源数据和代码/第6章/示例程序/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../资料/Python3智能数据分析快速入门 源数据和代码/第6章/示例程序/code/6.1 pandas常用类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainWindow (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统二" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qt0426_QPainter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统二" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter04/qt0426_QPainter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统二" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MainWindow (1)" />
+        <item itemvalue="Python.setdata" />
+        <item itemvalue="Python.001" />
+        <item itemvalue="Python.qt0426_QPainter" />
+        <item itemvalue="Python.6.1 pandas常用类" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa6df6bd-2dfb-4fb0-9701-a04f72436773" name="Default Changelist" comment="" />
+      <created>1590809621802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590809621802</updated>
+      <workItem from="1590809623651" duration="881000" />
+      <workItem from="1590842725950" duration="58225000" />
+      <workItem from="1591013090988" duration="9341000" />
+      <workItem from="1591146506538" duration="6681000" />
+      <workItem from="1591615650240" duration="17626000" />
+      <workItem from="1591755370531" duration="5442000" />
+      <workItem from="1591870573037" duration="3793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1593332692241">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1593332692241" />
+    <state width="1636" height="167" key="GridCell.Tab.0.bottom" timestamp="1593332693037">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="167" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1593332693037" />
+    <state width="1636" height="167" key="GridCell.Tab.0.center" timestamp="1593332693037">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="167" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1593332693037" />
+    <state width="1636" height="167" key="GridCell.Tab.0.left" timestamp="1593332693037">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="167" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1593332693037" />
+    <state width="1636" height="167" key="GridCell.Tab.0.right" timestamp="1593332693037">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="167" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1593332693037" />
+    <state width="1636" height="288" key="GridCell.Tab.1.bottom" timestamp="1591752547444">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="288" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1591752547444" />
+    <state width="1636" height="288" key="GridCell.Tab.1.center" timestamp="1591752547443">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="288" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1591752547443" />
+    <state width="1636" height="288" key="GridCell.Tab.1.left" timestamp="1591752547443">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="288" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1591752547443" />
+    <state width="1636" height="288" key="GridCell.Tab.1.right" timestamp="1591752547443">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="288" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591752547443" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1591615671958">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1591615671958" />
+    <state x="520" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1591870574952">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="520" y="327" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1591870574952" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1591158239532">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1591158239532" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$setdata.coverage" NAME="setdata Coverage Results" MODIFIED="1591860063401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$6_1_pandas.coverage" NAME="6.1 pandas常用类 Coverage Results" MODIFIED="1591062946417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../资料/Python3智能数据分析快速入门 源数据和代码/第6章/示例程序/code" />
+    <SUITE FILE_PATH="coverage/$MainWindow__1_.coverage" NAME="MainWindow (1) Coverage Results" MODIFIED="1591951960123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1590809800898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../资产管理系统" />
+    <SUITE FILE_PATH="coverage/$MainWindow_UI.coverage" NAME="MainWindow_UI Coverage Results" MODIFIED="1591011957454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$001.coverage" NAME="001 Coverage Results" MODIFIED="1591628164211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$CallMainWindow.coverage" NAME="CallMainWindow Coverage Results" MODIFIED="1590891506099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1591012636735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$__1_.coverage" NAME="例子 (1) Coverage Results" MODIFIED="1591013106090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$qt09_db03.coverage" NAME="qt09_db03 Coverage Results" MODIFIED="1590894262143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter09" />
+    <SUITE FILE_PATH="coverage/$qt0426_QPainter.coverage" NAME="qt0426_QPainter Coverage Results" MODIFIED="1591627565589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter04" />
+  </component>
+</project>

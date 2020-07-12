@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00de6b8b-deaa-4d86-9ad1-6cf6deaf0fc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDVeszKM3mwiZfYMQPCoj9SOgI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../资料/Python3智能数据分析快速入门 源数据和代码" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lf\data\project\资产管理系统" />
+      <recent name="D:\lf\data\project\资产管理系统\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BookStorageViewer">
+    <configuration name="BookStorageViewer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BookStorageViewer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter09" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter09/DataGrid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SignIn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SignIn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="资产管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../0529/第九章" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../0529/第九章/dataGrid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BookStorageViewer" />
+        <item itemvalue="Python.MainWindow" />
+        <item itemvalue="Python.dataGrid" />
+        <item itemvalue="Python.DataGrid" />
+        <item itemvalue="Python.SignIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00de6b8b-deaa-4d86-9ad1-6cf6deaf0fc3" name="Default Changelist" comment="" />
+      <created>1590063249922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590063249922</updated>
+      <workItem from="1590063251886" duration="41925000" />
+      <workItem from="1590147511931" duration="136000" />
+      <workItem from="1590148353711" duration="243000" />
+      <workItem from="1590842790146" duration="25510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590133830337">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1590133830337" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1591064214957">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1591064214957" />
+    <state width="1636" height="249" key="GridCell.Tab.0.bottom" timestamp="1591064216107">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="249" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1591064216107" />
+    <state width="1636" height="249" key="GridCell.Tab.0.center" timestamp="1591064216107">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="249" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1591064216107" />
+    <state width="1636" height="249" key="GridCell.Tab.0.left" timestamp="1591064216107">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="249" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1591064216107" />
+    <state width="1636" height="249" key="GridCell.Tab.0.right" timestamp="1591064216107">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="249" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591064216107" />
+    <state width="1636" height="330" key="GridCell.Tab.1.bottom" timestamp="1590146266717">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590146266717" />
+    <state width="1636" height="330" key="GridCell.Tab.1.center" timestamp="1590146266717">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590146266717" />
+    <state width="1636" height="330" key="GridCell.Tab.1.left" timestamp="1590146266717">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590146266717" />
+    <state width="1636" height="330" key="GridCell.Tab.1.right" timestamp="1590146266717">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590146266717" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1590148353784">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1590148353784" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$zcgl_ui.coverage" NAME="zcgl_ui Coverage Results" MODIFIED="1590063435487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$MainWindow__1_.coverage" NAME="MainWindow (1) Coverage Results" MODIFIED="1590136561778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManageDesktopApp-master" />
+    <SUITE FILE_PATH="coverage/$BorrowStatusViewer.coverage" NAME="BorrowStatusViewer Coverage Results" MODIFIED="1590107809457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManageDesktopApp-master" />
+    <SUITE FILE_PATH="coverage/$changePasswordDialog.coverage" NAME="changePasswordDialog Coverage Results" MODIFIED="1590136832035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$001.coverage" NAME="001 Coverage Results" MODIFIED="1590066622310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$dropBookDialog__1_.coverage" NAME="dropBookDialog (1) Coverage Results" MODIFIED="1590121747399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManageDesktopApp-master" />
+    <SUITE FILE_PATH="coverage/$dataGrid.coverage" NAME="dataGrid Coverage Results" MODIFIED="1590899134778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../0529/第九章" />
+    <SUITE FILE_PATH="coverage/$SignUp.coverage" NAME="SignUp Coverage Results" MODIFIED="1590068638934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$updateBookDialog.coverage" NAME="updateBookDialog Coverage Results" MODIFIED="1590133359464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$DataGrid.coverage" NAME="DataGrid Coverage Results" MODIFIED="1590898147553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../资料/PyQt5快速开发与实战（pdf+源码）/PyQt5快速开发与实战源码/PyQt5/Chapter09" />
+    <SUITE FILE_PATH="coverage/$AdminHome.coverage" NAME="AdminHome Coverage Results" MODIFIED="1590120324063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManageDesktopApp-master" />
+    <SUITE FILE_PATH="coverage/$dropBookDialog.coverage" NAME="dropBookDialog Coverage Results" MODIFIED="1590122681108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SignIn__1_.coverage" NAME="SignIn (1) Coverage Results" MODIFIED="1590068559834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$addBookDialog.coverage" NAME="addBookDialog Coverage Results" MODIFIED="1590142359789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1590912136186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SignIn.coverage" NAME="SignIn Coverage Results" MODIFIED="1590148633932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$BookStorageViewer.coverage" NAME="BookStorageViewer Coverage Results" MODIFIED="1590931392188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SignIn__2_.coverage" NAME="SignIn (2) Coverage Results" MODIFIED="1590067250941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManageDesktopApp-master" />
+    <SUITE FILE_PATH="coverage/$AdminHome__1_.coverage" NAME="AdminHome (1) Coverage Results" MODIFIED="1590133837743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
